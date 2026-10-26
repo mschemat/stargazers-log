@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World",
+    "starredAt": "2025-01-12"
+  },
+  {
+    "repository": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starredAt": "2025-02-03"
+  },
+  {
+    "repository": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starredAt": "2025-03-21"
+  }
+]
